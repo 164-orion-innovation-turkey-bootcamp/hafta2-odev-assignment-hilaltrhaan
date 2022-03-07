@@ -1,3 +1,18 @@
+
+## Tavuk Burger ve Köfte Burger için ;
+
+-  
+   ![KÖFTE](https://user-images.githubusercontent.com/88663001/157079155-03701316-1a59-4d22-8c92-7600fa8080fd.PNG)
+
+-  
+   ![Tavuk](https://user-images.githubusercontent.com/88663001/157079178-d4603e69-0f0d-4a24-91b1-3425445e47bf.PNG)
+
+
+
+
+
+
+
 # Hamburger Hazırlama Projesi:
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
